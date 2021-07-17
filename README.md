@@ -22,7 +22,7 @@ Using these inputs it will cater to the user and select a workout routine tailor
 This feature will use functions to get a users age, strength and how many days per week they would like to train. Each input will have a loop which will run until correct input is recieved (eg an integer for age.) Error handling will be used to ensure application does not crash at an incorrect input.
 All inputs will be assigned to a variable to be called by the final function to print the routine.
 #### Age
-* Users below 14 will recieve a cardio and sports based routine
+* Users below 14 will receive a cardio and sports based routine
 * Users 14-17 will get a standardised 3 day a week strength routine, they will not have an option to select strength or days
 * Users 18+ will then be asked to select strength and days/week
 #### Sex
@@ -45,7 +45,11 @@ After they select the application will run through a loop and if/else statements
 The workout routine will be printed in table format showing one weeks worth of training.
 
 ## User interaction and experience
-The first thing the application will print is a "home page" of sorts containing a large ASCII title and some instructions. They will recieve clear prompts on what to do next ie "Enter your age". The user will progress through each step of the application by entering the relevant prompts.
+The first thing the application will print is a "home page" of sorts containing a large ASCII title and some instructions. 
+
+![](data/homePage.jpg)
+
+They will recieve clear prompts on what to do next ie "Enter your age". The user will progress through each step of the application by entering the relevant prompts.
 At the strength screen a table containing strength standards for the deadlift will be printed. The user will be asked to check how much they can lift and pair it with the strength level. If the user is unsure they can take a guess or select beginner. This will also be explained to the user.
 
 Errors will be handled by having each user input wrapped in a loop containing Try/except features. Any errors will be displayed to the user as a printed message and the loop will continue until the application recieves a correct input.
