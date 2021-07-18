@@ -1,7 +1,5 @@
 # Help file
 
-## Steps to install the application
-
 ## Any system/hardware requirements
 This program requires your computer to have python3 installed to run. It can be run on Mac, Linux and Windows.
 
