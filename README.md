@@ -47,9 +47,13 @@ The workout routine will be printed in table format showing one weeks worth of t
 ## User interaction and experience
 The first thing the application will print is a "home page" of sorts containing a large ASCII title and some instructions. 
 
-![](homePage.jpg)
+![](/data/homePage.JPG)
 
 They will recieve clear prompts on what to do next ie "Enter your age". The user will progress through each step of the application by entering the relevant prompts.
 At the strength screen a table containing strength standards for the deadlift will be printed. The user will be asked to check how much they can lift and pair it with the strength level. If the user is unsure they can take a guess or select beginner. This will also be explained to the user.
 
 Errors will be handled by having each user input wrapped in a loop containing Try/except features. Any errors will be displayed to the user as a printed message and the loop will continue until the application recieves a correct input.
+
+## Control Flow Diagram
+
+![Control Flow Diagram](/data/control_flow_diagram.JPG)
