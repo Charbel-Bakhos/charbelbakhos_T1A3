@@ -1,0 +1,15 @@
+Day,Exercise,Sets,Notes
+Monday,Jog, ,10 minutes
+ ,Sprint,5,15 seconds
+ ,Push-ups,3,10 reps
+ ,Chin-ups, ,As many sets until 20 reps
+Wednesday,Squat,3,Bodyweight for 20 reps
+ ,Push-ups,3,10 reps
+ ,Chin-ups, ,As many sets until 20 reps
+Thursday,Vertical jump,3,10
+ ,Box-jump,3,5
+ ,Hill sprints,3,20 seconds
+Friday,Jog, ,10 minutes
+ ,Spring,5,15 seconds
+ ,Push-ups,3,10 reps
+ ,Chin-ups, ,As many sets until 20 reps

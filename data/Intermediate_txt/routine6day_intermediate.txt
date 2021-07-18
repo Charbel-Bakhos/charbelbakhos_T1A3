@@ -1,0 +1,35 @@
+Day,Exercise,Sets,Reps
+Monday,Deadlift,1,5
+ ,Pulldowns,3,8
+ ,Cable Row,3,8
+ ,Face Pulls,5,15-20
+ ,Hammer curl,4,8
+ ,Dumbbell curl,3,8
+Tuesday,Bench press,5,5
+ ,Shoulder press,3,8
+ ,Incline Bench,3,8-12
+ ,Tricep pushdown,3,8
+ ,Overhead Tricep,3,8
+ ,Side raise,3,15
+Wednesday,Squat,3,5
+ ,Romanian Deadlift,3,8
+ ,Leg Press,3,8
+ ,Leg Curls,3,8-12
+ ,Calf Raises,5,12
+Thursday,Barbell Row,5,5
+ ,Chin-ups,3,8
+ ,Cable Row,3,8
+ ,Face Pulls,5,15-20
+ ,Hammer curl,4,8
+ ,Dumbbell curl,3,8
+Friday,Shoulder press,5,5
+ ,Bench press,3,8
+ ,Incline Bench,3,8-12
+ ,Tricep pushdown,3,8
+ ,Overhead Tricep,3,8
+ ,Side raise,3,15
+Saturday,Squat,3,5
+ ,Romanian Deadlift,3,8
+ ,Leg Press,3,8
+ ,Leg Curls,3,8-12
+ ,Calf Raises,5,12
