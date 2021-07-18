@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import time,sys,os,csv
 from functions import *
 from workout_routines import *
