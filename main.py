@@ -5,23 +5,23 @@ from workout_routines import *
 
 
 
-#functions.typingPrintHeading("""              ██╗    ██╗ ██████╗ ██████╗ ██╗  ██╗ ██████╗ ██╗   ██╗████████╗    ██████╗ ██████╗  ██████╗                
-#              ██║    ██║██╔═══██╗██╔══██╗██║ ██╔╝██╔═══██╗██║   ██║╚══██╔══╝    ██╔══██╗██╔══██╗██╔═══██╗               
-#              ██║ █╗ ██║██║   ██║██████╔╝█████╔╝ ██║   ██║██║   ██║   ██║       ██████╔╝██████╔╝██║   ██║               
-#              ██║███╗██║██║   ██║██╔══██╗██╔═██╗ ██║   ██║██║   ██║   ██║       ██╔═══╝ ██╔══██╗██║   ██║               
-#              ╚███╔███╔╝╚██████╔╝██║  ██║██║  ██╗╚██████╔╝╚██████╔╝   ██║       ██║     ██║  ██║╚██████╔╝               
-#               ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝       ╚═╝     ╚═╝  ╚═╝ ╚═════╝                """)
-#
-#functions.typingPrintText("""                                                Created by Charbel Bakhos                                               
-#                                                                                                                        
-#           Welcome to the world's top athletes best kept secret. A tried and tested workout routine selector.           
-#                                                                                                                        
-#Please follow the prompts as they come through to ensure you get a routine designed to make you big, buff and beautiful.
-#                                                                                                                        
-#                                               Press enter key to continue                                                
-#                                                                                                                        """)
+typingPrintHeading("""              ██╗    ██╗ ██████╗ ██████╗ ██╗  ██╗ ██████╗ ██╗   ██╗████████╗    ██████╗ ██████╗  ██████╗                
+              ██║    ██║██╔═══██╗██╔══██╗██║ ██╔╝██╔═══██╗██║   ██║╚══██╔══╝    ██╔══██╗██╔══██╗██╔═══██╗               
+              ██║ █╗ ██║██║   ██║██████╔╝█████╔╝ ██║   ██║██║   ██║   ██║       ██████╔╝██████╔╝██║   ██║               
+              ██║███╗██║██║   ██║██╔══██╗██╔═██╗ ██║   ██║██║   ██║   ██║       ██╔═══╝ ██╔══██╗██║   ██║               
+              ╚███╔███╔╝╚██████╔╝██║  ██║██║  ██╗╚██████╔╝╚██████╔╝   ██║       ██║     ██║  ██║╚██████╔╝               
+               ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝       ╚═╝     ╚═╝  ╚═╝ ╚═════╝                """)
 
-#input("")
+typingPrintText("""                                                Created by Charbel Bakhos                                               
+                                                                                                                        
+           Welcome to the world's top athletes best kept secret. A tried and tested workout routine selector.           
+                                                                                                                        
+Please follow the prompts as they come through to ensure you get a routine designed to make you big, buff and beautiful.
+                                                                                                                        
+                                               Press enter key to continue                                                
+                                                                                                                        """)
+
+input("")
 screen_clear()
 age_of_user = user_age()
 if age_of_user<= 10:
