@@ -1,0 +1,17 @@
+import csv,os,os.path
+#The below fetch data from the csv files containing the workout routines
+under14 = csv.reader(open("data/under14.csv","r"))
+routine3day_beginner = csv.reader(open("data/routine3day_beginner.csv","r"))
+routine4day_beginner = csv.reader(open("data/routine4day_beginner.csv","r"))
+routine5day_beginner = csv.reader(open("data/routine5day_beginner.csv","r"))
+routine6day_beginner = csv.reader(open("data/routine6day_beginner.csv","r"))
+routine3day_intermediate = csv.reader(open("data/routine3day_intermediate.csv","r"))
+routine4day_intermediate = csv.reader(open("data/routine4day_intermediate.csv","r"))
+routine5day_intermediate = csv.reader(open("data/routine5day_intermediate.csv","r"))
+routine6day_intermediate = csv.reader(open("data/routine6day_intermediate.csv","r"))
+routine3day_advanced = csv.reader(open("data/routine3day_advanced.csv","r"))
+routine4day_advanced = csv.reader(open("data/routine4day_advanced.csv","r"))
+routine5day_advanced = csv.reader(open("data/routine5day_advanced.csv","r"))
+routine6day_advanced = csv.reader(open("data/routine6day_advanced.csv","r"))
+deadliftMale = csv.reader(open("data/deadliftMale.csv","r"))
+deadliftFemale = csv.reader(open("data/deadliftFemale.csv","r"))
