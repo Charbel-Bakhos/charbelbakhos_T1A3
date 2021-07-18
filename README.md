@@ -43,7 +43,7 @@ After they select the application will run through a loop and if/else statements
 
 ### Workout Routine
 The workout routine will be printed in table format showing one weeks worth of training.
-
+![Example Routine](/data/exampleRoutine.JPG)
 
 ## User interaction and experience
 The first thing the application will print is a "home page" of sorts containing a large ASCII title and some instructions. 
