@@ -2,7 +2,7 @@
 ### T1A3 - Terminal Application
 
 # Software Development Plan
-
+https://github.com/Charbel-Bakhos/charbelbakhos_T1A3
 
 ## Statement of Purpose and Scope
 One of the most common problems I identify in individuals when they request help with going to the gym is that they don't have a structured routine. Structure in your workouts creates good habits, the ability to identify and work on weaknesses, and catering to the individual.
